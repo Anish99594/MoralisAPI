@@ -1,0 +1,22 @@
+{
+  "name": "moralisapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@moralisweb3/common-core": "^2.27.2",
+    "@moralisweb3/common-evm-utils": "^2.27.2",
+    "@moralisweb3/evm-api": "^2.27.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.1",
+    "moralis": "^2.27.2"
+  }
+}
